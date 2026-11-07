@@ -1,0 +1,7 @@
+[project]
+name = "seerah-py-madinah-charter-clauses"
+version = "1.0.0"
+description = "Constitution of Madinah (Sahifat Al-Madinah) 47-Clause Legal Analyzer (محلل بنود وثيقة المدينة المنورة الدستورية)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]
